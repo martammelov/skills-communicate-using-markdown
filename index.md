@@ -13,3 +13,7 @@ Alterações para testar o tamanho dos headers
 ``` javascript
 var myVar = "Hello, world! Estou a fazer um tutorial do Github";
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [x] Introduce myself to the world
