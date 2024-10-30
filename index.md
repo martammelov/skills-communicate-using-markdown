@@ -6,3 +6,6 @@
 ###### H6
 
 Alterações para testar o tamanho dos headers
+
+### Adicionar de imagem:
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
