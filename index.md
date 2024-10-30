@@ -9,3 +9,7 @@ Alterações para testar o tamanho dos headers
 
 ### Adicionar de imagem:
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+``` javascript
+var myVar = "Hello, world! Estou a fazer um tutorial do Github";
+```
